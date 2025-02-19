@@ -2,7 +2,7 @@ import random
 
 def sapa_acak():
     sapaan = ["Assalamualaikum", "Halo", "Selamat pagi"]
-    nama = ["teman-teman", "rekan-rekan", "sobat"]
+    nama = ["teman-teman", "kawan", "rekan-rekan", "sobat"]
     
     pilihan_sapaan = random.choice(sapaan)
     pilihan_nama = random.choice(nama)
