@@ -8,7 +8,7 @@ def sapa_acak():
     pilihan_nama = random.choice(nama)
 
     print(f"{pilihan_sapaan}, {pilihan_nama}! Semangat belajar Python!")
-
+    return pesan
 sapa_acak()
 #B
 # Line 1 =  Mengimpor modul random untuk memilih elemen secara acak.
@@ -16,6 +16,7 @@ sapa_acak()
 # line 4 dan 5 itu buat pilihan sapaan dan nama
 # line 7 dan 8 itu buat milih salah satu sapaan kalo gak satu nama acak dari line sebelumnya atau dari list yang di atas linenya
 # line 10 = buat manggil sapaan yang kepilih di layar
+# line 11 = untuk mereturn pesan tersebut
 # line terakhir itu agar programnya dijalankan dan buat menghasilkan sapaan yang acak
 
 #C
