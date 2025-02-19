@@ -11,7 +11,7 @@ def sapa_acak():
     return pesan
 print(sapa_acak())
 #B
-SESUAI DENGAN PEMAHAMAN SAYA...
+
 # Line 1 =  Mengimpor modul random untuk memilih elemen secara acak.
 # line 3 = fungsi untuk mencetak sapaan yang ngacak atau acakan
 # line 4 dan 5 itu buat pilihan sapaan dan nama
@@ -21,7 +21,7 @@ SESUAI DENGAN PEMAHAMAN SAYA...
 # line terakhir itu agar programnya dijalankan dan buat menghasilkan sapaan yang acak
 
 #C
-SESUAI DENGAN PEMAHAMAN SAYA....
+
 # 1. NIGMPORMODUL RANDOM BUAT MILIH ELEMEN ACAK 
 # 2. buat fungsi "sama_acak()" yang nyimpan 2 list yaitu sapaan dan nama
 # 3. milih sapaan dan nama acak pakai random.choice()
